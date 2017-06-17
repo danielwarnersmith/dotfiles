@@ -1,0 +1,4 @@
+# Shortcuts
+alias p='cd ~/projects'
+alias rasputin='ssh rasputin.local'
+alias dotfiles='cd ~/dotfiles-local'
