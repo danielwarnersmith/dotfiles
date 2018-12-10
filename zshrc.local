@@ -1,2 +1,5 @@
 alias dokku='bash $HOME/.dokku/contrib/dokku_client.sh'
 alias myip="curl -s http://www.showmyip.com/simple/ | awk '{print $1}'"
+source /Users/danielws/.asdf/asdf.sh
+
+export PATH="$HOME/.bin:$PATH"
